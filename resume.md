@@ -47,16 +47,11 @@ Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hard
 ### Intern, Signal Processing Inc., Rockville, MD, Jan 2009 – May 2009
 - Implemented independent component analysis (ICA) for robust astronaut communication. NASA subcontractor. 
 
-### Intern, Genesys Logic, Inc., Taipei, Taiwan, Jul 2004 – Aug 2004
-- Designed a performance-evaluating PCB for a 125MHZ Analog-to-Digital Converter.
-
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
 - [Constructed a novel tomography system termed angled fluorescent laminar optical tomography (aFLOT). Enabling spatial resolution ~200um and peneration depth ~2mm, aFLOT resolves features that are too small for MRI and too deep for confocal microscopy](https://drum.lib.umd.edu/bitstream/handle/1903/14225/Chen_umd_0117E_14017.pdf)
 - Applied in regenerative medicine, aFLOT non-invasively resolved 3D distributions of live human mesenchymal stem cells, which evidenced cell culturing in large engineered tissue, enabling following study of the 3D functional imaging of whisker stimulation. 
-
-### Graduate Teaching Assistant
-- Lectured: Introduction to Device Physics; Fourier Transform and Fourier Optics; Electronics lab
+- Lectured: Introduction to Device Physics, Fourier Transform and Fourier Optics, Electronics lab
 
 ### MS, Electrical & Computer Engineering, National Taiwan University, GPA 4.0, Sep 2005 - Jun 2007
 - Journal of first author. **Chao-Wei Chen** and Chih-I Wu, "[Analytical solution to space charge limited currents with exponentially distributed traps](http://dx.doi.org/10.1063/1.3043844)", Journal of Applied Physics 104, 123706 (2008)
