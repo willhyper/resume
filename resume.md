@@ -4,12 +4,12 @@
 |-|-|-|
 
 ## Personal statement
-Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in system engineering, semiconductors, and medical optics.
+Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in system engineering, semiconductors, medical optics, and optimization(mathematics).
 
 ## Computer skills
 Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hardware)</sup>.
 
-## Active side projects
+## Active projects
 -	[An efficient complete enumerating algorithm to coin the strongly regular graph, a problem whose complexity grows as 2^(n^2/2). As of today, n=37 is proven existed but the structure is unknown; n=65 remains open.](https://github.com/willhyper/two_dist_set)
 
 ## [publications](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
@@ -41,7 +41,7 @@ Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hard
 - Java, Maven, Hadoop, Guava, Perforce.
 
 ### Contractor, Center for Devices and Radiological Health, Food and Drug Administration, Sep 2011 – Aug 2012
-- For proposaling regulatory standards, developed phantoms, metrics, and [visualization tools](https://sites.google.com/site/willhyper/gallery) for characterizing various implementations of optical coherence tomography
+- For proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/gallery) for characterizing various implementations of optical coherence tomography
 - profilometer, spin-coater, Matlab, ImageJ
 
 ### Intern, Signal Processing Inc., Rockville, MD, Jan 2009 – May 2009
@@ -59,7 +59,7 @@ Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hard
 - Lectured: Introduction to Device Physics; Fourier Transform and Fourier Optics; Electronics lab
 
 ### MS, Electrical & Computer Engineering, National Taiwan University, GPA 4.0, Sep 2005 - Jun 2007
-- Improved the current-voltage (IV) model for OLEDs. [First author publication at Journal of Applied Physics.](aip.scitation.org/doi/abs/10.1063/1.3043844)
+- Journal of first author. **Chao-Wei Chen** and Chih-I Wu, "[Analytical solution to space charge limited currents with exponentially distributed traps](http://dx.doi.org/10.1063/1.3043844)", Journal of Applied Physics 104, 123706 (2008)
 - Constructed a 4-source thermal evaporator for fabricating OLEDs.
 - Automated Keithley 2400 for measuring the current-voltage curve.
 
