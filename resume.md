@@ -34,7 +34,7 @@ Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hard
 - Java, Maven, Hadoop, Guava, Perforce.
 
 ### Contractor, Center for Devices and Radiological Health, Food and Drug Administration, Sep 2011 – Aug 2012
-- For proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/gallery) for characterizing various implementations of optical coherence tomography
+- For proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/home/gallery) for characterizing various implementations of optical coherence tomography
 - profilometer, spin-coater, Matlab, ImageJ
 
 ## Education
