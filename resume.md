@@ -53,4 +53,12 @@ Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hard
 - Implemented Shift Keying and Phase Lock Loop using FPGA (Xilinx) and Verilog (Quartus II).
 - Implemented a digital oscilloscope and a wireless earphone using microprocessor AT89C51.
 
+## Selected publications
+- **Chao-Wei Chen**, Jeremy Nesbitt, “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
+- **Chao-Wei Chen**, “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
+- Alexander Barg, Wei-Hsuan Yu, “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, **Chao-Wei Chen** is acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
+- **Chao-Wei Chen**, Andrew Yeatts, John Fisher, Yu Chen, "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
+- **Chao-Wei Chen**, Andrew Yeatts, Emily Coates, John Fisher, Yu Chen, "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
+- **Chao-Wei Chen** and Chih-I Wu, "Analytical solution to space charge limited currents with exponentially distributed traps" J. Appl. Phys. 104, 123706 (2008)
+
 <a name="hardware">1</a>: FPGA, Arduino, Raspberry PI, NI USB-6008/6259, DAQmx, PCI 6731, AT89C51, Newport ESP300/301, Galil 
