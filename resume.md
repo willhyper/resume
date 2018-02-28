@@ -1,7 +1,9 @@
 # Chao-Wei Chen
+[github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
-|[github.com/willhyper](github.com/willhyper) <br/>[LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) <br/>[Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)| willhyper@gmail.com<br/>669-252-2184 | 800 S Abel St, unit 204<br/>Milpitas, CA 95035 |
-|-|-|-|
+willhyper@gmail.com * 669-252-2184 
+
+800 S Abel St, unit 204<br/>Milpitas, CA 95035
 
 ## Personal statement
 Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in system engineering, semiconductors, medical optics, and optimization(mathematics).
