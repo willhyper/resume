@@ -1,27 +1,21 @@
 # Chao-Wei Chen
 
-|[github.com/willhyper](github.com/willhyper) <br/>[LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/)| willhyper@gmail.com<br/>669-252-2184 | 800 S Abel St, unit 204<br/>Milpitas, CA 95035 |
+|[github.com/willhyper](github.com/willhyper) <br/>[LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) <br/>[Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)| willhyper@gmail.com<br/>669-252-2184 | 800 S Abel St, unit 204<br/>Milpitas, CA 95035 |
 |-|-|-|
 
 ## Personal statement
 Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in system engineering, semiconductors, medical optics, and optimization(mathematics).
 
 ## Computer skills
-Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hardware)</sup>.
+Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hardware)</sup>.
 
-## Active projects
--	[An efficient complete enumerating algorithm to coin the strongly regular graph, a problem whose complexity grows as 2^(n^2/2). As of today, n=37 is proven existed but the structure is unknown; n=65 remains open.](https://github.com/willhyper/two_dist_set)
-
-## [publications](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
-
-## Work experience<sup>[2](#ref)</sup>
+## Work experience
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Present
-
-- Bring together the best of two products, sensitivity from SEM and speed from optics, to deliver a synergized defect-detection solution to the market.
+- Integrating the best of sensitivity from SEM and speed from optics to deliver a synergized defect-detection solution to the market.
 - System architect and planning SW/HW spec onto which asynchronous communications among tools are established: redis, sqlite
-- Distributing high volume data (28TB~1PB per wafer) flow into processes.
-- Bridging factory automation to web service: SEMI, GEM, SECS, klarf, RESTFUL, flask
-- Machine learning, diversity sampling: Tensorlow, keras
+- Distributing high volume data (28TB~1PB per wafer) flow into processes. Diversity sampling.
+- Bridging factory automation to web service: SEMI, GEM, SECS, klarf, RESTFUL, flask, docker
+- Building Machine learning framework for defect discovery and inference: Tensorlow, keras
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
@@ -44,9 +38,6 @@ Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hard
 - For proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/gallery) for characterizing various implementations of optical coherence tomography
 - profilometer, spin-coater, Matlab, ImageJ
 
-### Intern, Signal Processing Inc., Rockville, MD, Jan 2009 – May 2009
-- Implemented independent component analysis (ICA) for robust astronaut communication. NASA subcontractor. 
-
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
 - [Constructed a novel tomography system termed angled fluorescent laminar optical tomography (aFLOT). Enabling spatial resolution ~200um and peneration depth ~2mm, aFLOT resolves features that are too small for MRI and too deep for confocal microscopy](https://drum.lib.umd.edu/bitstream/handle/1903/14225/Chen_umd_0117E_14017.pdf)
@@ -64,6 +55,3 @@ Proficient in Python, Java, and Matlab. GIT, flask, microprocessor<sup>[1](#hard
 - Implemented a digital oscilloscope and a wireless earphone using microprocessor AT89C51.
 
 <a name="hardware">1</a>: FPGA, Arduino, Raspberry PI, NI USB-6008/6259, DAQmx, PCI 6731, AT89C51, Newport ESP300/301, Galil 
-
-<a name="ref">2</a>: Reference available upon request
-
