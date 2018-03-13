@@ -3,16 +3,16 @@
 - willhyper@gmail.com * 669-252-2184 * 800 S Abel St, unit 204, Milpitas, CA 95035
 
 ## Personal statement
-Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in system engineering, semiconductors, medical optics, and optimization(mathematics).
+Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
 
 ## Computer skills
 Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hardware)</sup>.
 
 ## Work experience
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Present
-- Integrating the best of sensitivity from SEM and speed from optics to deliver a synergized defect-detection solution to the market.
+- Integrating the best of sensitivity from SEM and speed from optics to deliver a synergized defect-detection system.
 - System architect and planning SW/HW spec onto which asynchronous communications among tools are established: redis, sqlite
-- Distributing high volume data (28TB~1PB per wafer) flow into processes. Diversity sampling.
+- Distributing high volume data (28TB~1PB per wafer) flow into processes.
 - Bridging factory automation to web service: SEMI, GEM, SECS, klarf, RESTFUL, flask, docker
 - Building Machine learning framework for defect discovery and inference: Tensorlow, keras
 
@@ -40,8 +40,11 @@ Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hard
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
 - [Constructed a novel tomography system termed angled fluorescent laminar optical tomography (aFLOT). Enabling spatial resolution ~200um and peneration depth ~2mm, aFLOT resolves features that are too small for MRI and too deep for confocal microscopy](https://drum.lib.umd.edu/bitstream/handle/1903/14225/Chen_umd_0117E_14017.pdf)
-- Applied in regenerative medicine, aFLOT non-invasively resolved 3D distributions of live human mesenchymal stem cells, which evidenced cell culturing in large engineered tissue, enabling following study of the 3D functional imaging of whisker stimulation. 
-- Lectured: Introduction to Device Physics, Fourier Transform and Fourier Optics, Electronics lab
+- Applied in regenerative medicine, aFLOT non-invasively resolved 3D distributions of live human mesenchymal stem cells, which evidenced cell culturing in large engineered tissue, enabling following study of [the 3D functional imaging of whisker stimulation](https://doi.org/10.1364/BOE.7.005218). 
+- [building GRIN-lens based laparoscopic-OCT for non-invasive evaluating transplant kidney](https://doi.org/10.1007/978-3-642-14998-6_122)
+- [OCT imaging of annulus fibrosus of the intervertebral disc](https://dx.doi.org/10.1002%2Fjor.22778)
+- building two photon microscopy (TPM) for volunmetric imaging. Maintained (align optics, calibration) mode-locked Ti:Sapphire laser, Coherent Mira 900.
+- Lecturer: Introduction to Device Physics, Fourier Transform and Fourier Optics, Electronics lab
 
 ### MS, Electrical & Computer Engineering, National Taiwan University, GPA 4.0, Sep 2005 - Jun 2007
 - Journal of first author. **Chao-Wei Chen** and Chih-I Wu, "[Analytical solution to space charge limited currents with exponentially distributed traps](http://dx.doi.org/10.1063/1.3043844)", Journal of Applied Physics 104, 123706 (2008)
