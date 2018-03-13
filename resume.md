@@ -1,13 +1,13 @@
 # Chao-Wei Chen
-- [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 - willhyper@gmail.com * 669-252-2184 * 800 S Abel St, unit 204, Milpitas, CA 95035
+- [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Personal statement
 Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
 
 ## Computer skills
-Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hardware)</sup>.
-
+- Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hardware)</sup>.
+- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 ## Work experience
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Present
 - Integrating the best of sensitivity from SEM and speed from optics to deliver a synergized defect-detection system.
