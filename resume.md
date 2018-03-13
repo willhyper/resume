@@ -14,7 +14,7 @@ Years of industrial and academic experience in machine control, interface, and a
 - System architect and planning SW/HW spec onto which asynchronous communications among tools are established: redis, sqlite
 - Distributing high volume data (28TB~1PB per wafer) flow into processes.
 - Bridging factory automation to web service: SEMI, GEM, SECS, klarf, RESTFUL, flask, docker
-- Building Machine learning framework for defect discovery and inference: Tensorlow, keras
+- Building Machine learning framework for defect discovery and inference: Tensorlow, keras, anaconda
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
