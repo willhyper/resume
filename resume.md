@@ -8,6 +8,7 @@ Years of industrial and academic experience in machine control, interface, and a
 ## Computer skills
 - Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hardware)</sup>.
 - Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+
 ## Work experience
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Present
 - Integrating sensitivity from SEM and speed from optics to deliver a synergized defect-detection system.
@@ -47,7 +48,7 @@ Years of industrial and academic experience in machine control, interface, and a
 - Lecturer: Introduction to Device Physics, Fourier Transform and Fourier Optics, Electronics lab
 
 ### MS, Electrical & Computer Engineering, National Taiwan University, GPA 4.0, Sep 2005 - Jun 2007
-- Journal of first author. **Chao-Wei Chen** and Chih-I Wu, "[Analytical solution to space charge limited currents with exponentially distributed traps](http://dx.doi.org/10.1063/1.3043844)", Journal of Applied Physics 104, 123706 (2008)
+- 1st journal of 1st author. **Chao-Wei Chen** and Chih-I Wu, "[Analytical solution to space charge limited currents with exponentially distributed traps](http://dx.doi.org/10.1063/1.3043844)", Journal of Applied Physics 104, 123706 (2008)
 - Constructed a 4-source thermal evaporator for fabricating OLEDs.
 - Automated Keithley 2400 for measuring the current-voltage curve.
 
