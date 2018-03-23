@@ -3,38 +3,38 @@
 - [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Personal statement
-Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. As a self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan, postmortem documentation. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
+Years of industrial and academic experience in machine control, interface, and automation to bridge the physical and digital world. Self-starter, incline to do data driven decision making; quick prototyping to enable iterating designs from collaborative feedbacks; skills to decouple large complex systems; experience in product definition, use cases, requirement analysis, test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
 
 ## Computer skills
 - Proficient in Python, Java, and Matlab; GIT, flask; microprocessor<sup>[1](#hardware)</sup>.
 - Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 ## Work experience
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Present
-- Integrating the best of sensitivity from SEM and speed from optics to deliver a synergized defect-detection system.
-- System architect and planning SW/HW spec onto which asynchronous communications among tools are established: redis, sqlite
-- Distributing high volume data (28TB~1PB per wafer) flow into processes.
-- Bridging factory automation to web service: SEMI, GEM, SECS, klarf, RESTFUL, flask, docker
-- Building Machine learning framework for defect discovery and inference: Tensorlow, keras, anaconda
+- Integrating sensitivity from SEM and speed from optics to deliver a synergized defect-detection system.
+- System architect. Planning SW/HW spec. Proceesing 28TB-1PB per wafer.
+- Developing distributed systems, aiming for individually simple, collectively scalable design.
+- cross-platform (between linux and Windows), os-agnostic, async communication, bridging FA to Web: REST, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto
+- Building Machine learning framework for defect discovery and care area optimization.
+- Scrum, agile, Test-driven development: python3.6, anaconda, pytest
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
-- Precise, reliable, and error-handled optical device control and monitoring.
-- Integration of wafer marking and inspection systems to assist 3D-NAND buried defect review at SEM/FIB. 
-- System engineering, engaging with the mechanical, electrical, optics, system, and manufacturing.
+- Precise, stable, and error-handled optical device control and monitoring, enabling offline debug and intelligence.
+- Integration of wafer marking and inspection systems to assist 3D-NAND buried defect review at SEM/FIB.
+- System engineering, engaging with the mechanical, electrical, optics, and manufacturing.
 - Regular speaker and coordinator in KT Python study group (since 2016)
 - Software owner of autofocus subsystem: track focus of wafer via fast optical and electrical signal in closed loop control.
 - Onsite customer support; offsite SW point of contact. Simplify manufacturing process.
 - Achievement in KT’s System Engineering class (Dec 2014)
 - KT Hackathon finalists: Beyond Accuray (2015), SuperPoint (2016)
 - First author and participant of KT Engineering conference paper(2015, 2016)
-- Software process: waterfall. Applied design patterns. Clean code advocate. Python, Java, Ant, RTC, ClearCase 
+- waterfall, applied design patterns, OOP, clean code advocate. Python, Java, Ant, RTC, ClearCase 
 
 ### Software Engineer, Cafepress Inc., Jul 2013 – Oct 2013
-- Developed a back-end recommendation web application: “You may also like...”
-- Java, Maven, Hadoop, Guava, Perforce.
+- Developed a back-end recommendation web application: “You may also like...”: Java, Maven, Guava, Perforce, JIRA
 
 ### Contractor, Center for Devices and Radiological Health, Food and Drug Administration, Sep 2011 – Aug 2012
-- For proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/home/gallery) for characterizing various implementations of optical coherence tomography
+- Proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/home/gallery) for characterizing various implementations of optical coherence tomography
 - profilometer, spin-coater, Matlab, ImageJ
 
 ## Education
