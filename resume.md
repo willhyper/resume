@@ -14,7 +14,7 @@ Industrial and academic experience in machine control, interface, and automation
 - Integrating sensitivity from SEM and speed from optics to deliver a synergized defect-detection system. Care area optimization.
 - System architect. Planning SW/HW spec. Proceesing 28TB-1PB per wafer.
 - Developing distributed systems, aiming for individually simple, collectively scalable design.
-- cross-platform (between linux and Windows), os-agnostic, async communication, bridging FA to Web: REST, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto
+- cross-platform (between linux and Windows), os-agnostic, async communication, bridging FA to Web: REST, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto, pythonnet, Bokeh
 - Scrum, agile, Test-driven development: python3.6, anaconda, pytest
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
