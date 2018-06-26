@@ -3,7 +3,7 @@
 - [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Personal statement
-Industrial and academic experience in machine control, interface, and automation. Interested in bridging the physical and digital world. Currently working on brining Python ecosystem to semiconductor industry environment. Experience in product definition, use cases, requirement analysis, test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
+Industrial and academic experience in machine control, interface, and automation. Interested in bridging the physical and digital world. Currently working on brining Python ecosystem and web technologies to semiconductor industry. Experience in product definition, use cases, requirement analysis, test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
 
 ## Computer skills
 - Proficient in Python, Java, and Matlab; GIT; microprocessor<sup>[1](#hardware)</sup>.
@@ -57,6 +57,7 @@ Industrial and academic experience in machine control, interface, and automation
 - Implemented a digital oscilloscope and a wireless earphone using microprocessor AT89C51.
 
 ## Selected publications
+- **Chao-Wei Chen**, Suneet Luniya, “Embracing Python's ecosystem to enable Cougar's online fast experimentation”, KT Eng Conference 2018
 - **Chao-Wei Chen**, Jeremy Nesbitt, “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
 - **Chao-Wei Chen**, “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
 - Alexander Barg, Wei-Hsuan Yu, “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, **Chao-Wei Chen** is acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
