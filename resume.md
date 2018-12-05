@@ -2,20 +2,22 @@
 - willhyper@gmail.com * 669-252-2184 * 800 S Abel St, unit 204, Milpitas, CA 95035
 - [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
-## Personal statement
-Industrial and academic experience in machine control, interface, and automation. Interested in bridging the physical and digital world. Currently working on brining Python ecosystem and web technologies to semiconductor industry. Experience in product definition, use cases, requirement analysis, test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics).
+## Career Objective and Personal Statement
+Dedication to explore and develop Human-Machine Interface in bridging the physical and digital world. Years of industrial and academic experience in machine control, interface, and automation. Currently working on bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Responsibility includes product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Proficient in Python, Java, and Matlab; GIT; microprocessor<sup>[1](#hardware)</sup>.
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume), [gist](https://gist.github.com/willhyper)
 
 ## Work experience
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Present
-- Integrating sensitivity from SEM and speed from optics to deliver a synergized defect-detection system. Care area optimization.
-- System architect. Planning SW/HW spec. Proceesing 28TB-1PB per wafer.
-- Developing distributed systems, aiming for individually simple, collectively scalable design.
-- cross-platform (between linux and Windows), os-agnostic, async communication, bridging FA to Web: REST, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto, pythonnet, Bokeh
+- System architect. Planning SW/HW spec, enabling distributed proceesing 28TB-1PB per wafer using Spark.
+- Product definition, standardize workflows, generic workflow automation service.
+- Integrating SEM review and optics inspection to deliver a synergized defect-detection system.
+- Building infrastructure for scalable modular design.
+- cross-platform (between linux and Windows), os-agnostic, async communication, bridging FA to Web: REST, websocket, webhook, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto, pythonnet, Bokeh
 - Scrum, agile, Test-driven development: python3.6, anaconda, pytest
+- Python instructor at KT's corporate learning center.
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
