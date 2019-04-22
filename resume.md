@@ -3,7 +3,7 @@
 - [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Career Objective and Personal Statement
-Dedication to explore and develop Human-Machine Interface in bridging the physical and digital world. Years of industrial and academic experience in machine control, interface, and automation. Promoting bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Responsibility includes product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+Dedicating to explore and develop Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation. Promoting bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Experience includes product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Proficient in Python, C#, Java, and Matlab; GIT; microprocessor<sup>[1](#hardware)</sup>.
@@ -13,7 +13,7 @@ Dedication to explore and develop Human-Machine Interface in bridging the physic
 ### Senior System Software Engineer, ASML/HMI, Feb 2019 – Present
 - Manage SEM condition for multi-beam inspector.
 - Developed live sequence diagram, a tool for profiling state machine. Used Autofac DynamicProxy, Castle.Core, Flask, bokeh.  
-- Bridging emulator with Jupyter. Promoted an easy testing environment. icsharp
+- Bridging emulator with Jupyter. Promoted an easy integration testing environment. icsharp
 - .Net Framework, .Net Core, scriptcs, dotnet script
 
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Feb 2019
