@@ -3,7 +3,7 @@
 - [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Career Objective and Personal Statement
-Dedicating to explore and develop Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation. Promoting bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Experience includes product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation. Promoting bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Experience includes product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Proficient in Python, C#, Java, and Matlab; GIT; microprocessor<sup>[1](#hardware)</sup>.
@@ -18,12 +18,10 @@ Dedicating to explore and develop Human-Machine Interface in bridging the physic
 
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Feb 2019
 - System architect. Planning SW/HW spec, enabling distributed proceesing 28TB-1PB per wafer using Spark.
-- Product definition, standardize workflows, generic workflow automation service.
-- Integrating SEM review and optics inspection to deliver a synergized defect-detection system.
-- Building infrastructure for scalable modular design.
-- cross-platform (between linux and Windows), os-agnostic, async communication, bridging FA to Web: REST, websocket, webhook, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto, pythonnet, Bokeh
-- Scrum, agile, Test-driven development: python3.6, anaconda, pytest
 - Python instructor at KT's corporate learning center.
+- Participating in product (hybrid inspector) definition, standardize workflows, generic workflow automation service.
+- cross-platform communication: os-agnostic, async, bridging FA to Web: REST, websocket, webhook, flask, docker, redis, sqlite, samba, com, SEMI, GEM, SECS, klarf, pywinauto, pythonnet, Bokeh
+- Scrum, agile, Test-driven development: python3.6, anaconda, pytest
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
@@ -37,9 +35,6 @@ Dedicating to explore and develop Human-Machine Interface in bridging the physic
 - KT Hackathon finalists: Beyond Accuray (2015), SuperPoint (2016)
 - First author and participant of KT Engineering conference paper(2015, 2016)
 - waterfall, applied design patterns, OOP, clean code advocate. Python, Java, Ant, RTC, ClearCase 
-
-### Software Engineer, Cafepress Inc., Jul 2013 – Oct 2013
-- Developed a back-end recommendation web application: “You may also like...”: Java, Maven, Guava, Perforce, JIRA
 
 ### Contractor, Center for Devices and Radiological Health, Food and Drug Administration, Sep 2011 – Aug 2012
 - Proposing regulatory standards, fabricated testing phantoms, developed metrics and [visualization tools](https://sites.google.com/site/willhyper/home/gallery) for characterizing various implementations of optical coherence tomography
