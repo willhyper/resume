@@ -3,7 +3,7 @@
 - [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Career Objective and Personal Statement
-Dedicating to explore and develop Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation. Promoting bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Experience includes product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in medical imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+Dedicating to explore and develop Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation. Promoting bringing Python ecosystem, web technologies, and machine learning to semiconductor industry. Experience includes team lead driving product definition, use cases, requirement analysis, development, and test plan. Domain knowledge in biomedical optics/imaging, system engineering, semiconductors, and optimization(mathematics). DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Proficient in Python, C#, Java, and Matlab; GIT; microprocessor<sup>[1](#hardware)</sup>.
