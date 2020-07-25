@@ -1,6 +1,6 @@
 # Chao-Wei Chen
 - willhyper@gmail.com * 669-252-2184 * 4122 Manzanita Dr, San Jose, CA 95117
-- [github.com/willhyper](github.com/willhyper) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
+- [willhyper.github.io](willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Career Objective and Personal Statement
 Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
@@ -11,6 +11,9 @@ Dedicating in Human-Machine Interface in bridging the physical and digital world
 - Corporate Python instructor, SW consultant, Attendee of PyCon, SF meetups
 
 ## Work experience
+### Software Consultant/Contractor, various
+- [Signal Processing, Inc.] (http://signalpro.net/), [Cornami, Inc.] (https://cornami.com/), [Genesys Logic, Inc.] (http://www.genesyslogic.com.tw/en/index.php), [CDRH, FDA.gov] (https://www.fda.gov/about-fda/fda-organization/center-devices-and-radiological-health)
+
 ### Project Lead, ASML/HMI, Jan 2020 – Present
 - Managing triple constraints, risk; prioritize tasks; working with broader stakeholders and vendors.
 - Improve way of working in team / across teams for productivity.
@@ -28,9 +31,6 @@ Dedicating in Human-Machine Interface in bridging the physical and digital world
 - Implemented algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
 - Wafer marking feature owner. Integrated wafer marking system into BBP inspector.
 - System engineer engaging with the mechanical, electrical, optics, and manufacturing..
-
-### Student Contractor, Center for Devices and Radiological Health, FDA, Sep 2011 – Aug 2012
-- Proposing and implmented metrics for characterizing Opitical Coherence Tomography.
 
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
