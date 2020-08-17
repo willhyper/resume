@@ -6,9 +6,9 @@
 Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure; clean code advocate, exploratory development via REPL.
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume), [gist](https://gist.github.com/willhyper)
-- Corporate Python instructor, SW consultant, Attendee of PyCon, SF meetups
+- Python, C#, Java, Clojure; Flask, SpringBoot; gradle, lein  
+- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+- Corporate Python instructor, SW consultant, SF meetups; clean code advocate, exploratory programming via REPL.
 
 ## Work experience
 ### Software Consultant/Contractor, various
