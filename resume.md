@@ -6,9 +6,9 @@
 Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure; clean code advocate, exploratory development via REPL.
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume), [gist](https://gist.github.com/willhyper)
-- Corporate Python instructor, SW consultant, Attendee of PyCon, SF meetups
+- Python, C#, Java, Clojure; Flask, SpringBoot; gradle, lein  
+- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+- Corporate Python instructor, SW consultant, SF meetups; clean code advocate, exploratory programming via REPL.
 
 ## Work experience
 ### Software Consultant/Contractor, various
@@ -19,7 +19,7 @@ Dedicating in Human-Machine Interface in bridging the physical and digital world
 - Improve way of working in team / across teams for productivity.
 
 ### Senior System Software Engineer, ASML/HMI, Feb 2019 – Dec 2019
-- [Profiling system performance using modern web technologies.] (https://github.com/willhyper/seqdiag)
+- [Profiling system performance using modern web technologies.](https://github.com/willhyper/seqdiag)
 - Rearchitecturing various aspects of SW for Multi-Beam Inspector project.
 
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Feb 2019
