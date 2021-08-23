@@ -1,21 +1,22 @@
 # Chao-Wei Chen
-- willhyper@gmail.com * 669-252-2184 * 4122 Manzanita Dr, San Jose, CA 95117
+- willhyper@gmail.com * 669-252-2184 * 4092 Alberstone Dr, San Jose, CA 95130
 - [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Career Objective and Personal Statement
 Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure; Flask, SpringBoot; gradle, lein  
+- Python, C#, Java, Clojure; Flask; gradle, lein; git, Atlassian  
 - Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 - Corporate Python instructor, SW consultant, SF meetups; clean code advocate, exploratory programming via REPL.
 
 ## Work experience
-### Software Consultant/Contractor, various
-- [Signal Processing, Inc.](http://signalpro.net/), [Cornami, Inc.](https://cornami.com/), [Genesys Logic, Inc.](http://www.genesyslogic.com.tw/en/index.php), [CDRH, FDA.gov](https://www.fda.gov/about-fda/fda-organization/center-devices-and-radiological-health)
+### Project Lead, ASML/HMI, Apr 2021 – Present
+- PrintCheck for EUV
 
-### Project Lead, ASML/HMI, Jan 2020 – Present
-- Managing triple constraints, risk; prioritize tasks; working with broader stakeholders and vendors.
+### Project Lead, ASML/HMI, Jan 2020 – Apr 2021
+- Multi-Beam inspector SW infrastructure, platform, wafer exchange (WEX)
+- Manage risk; prioritize tasks; working with broader stakeholders and vendors.
 - Improve way of working in team / across teams for productivity.
 
 ### Senior System Software Engineer, ASML/HMI, Feb 2019 – Dec 2019
