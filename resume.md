@@ -6,11 +6,14 @@
 Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure; Flask; gradle, lein; git, Atlassian  
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
-- Corporate Python instructor, SW consultant, SF meetups; clean code advocate, exploratory programming via REPL.
+- Python, C#, Java, Clojure, Matlab; Flask; gradle, lein; git, Atlassian  
 
 ## Work experience
+### Chen's Applied Programming, sole proprietorship, Aug 2019 – Present
+- SW consultant, clean code advocate, exploratory programming via REPL.
+- practice Python for building business logic, analytics, and web services.
+- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+
 ### Project Lead, ASML/HMI, Apr 2021 – Present
 - PrintCheck for EUV
 
