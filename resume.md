@@ -7,6 +7,7 @@ Dedicating in Human-Machine Interface in bridging the physical and digital world
 
 ## Computer skills
 - Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD
+- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ## Work experience
 
