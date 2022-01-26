@@ -11,6 +11,10 @@ Dedicating in Human-Machine Interface in bridging the physical and digital world
 
 ## Work experience
 
+### Chen's Applied Programming, sole proprietorship, Aug 2019 – Present
+- SW consultant, clean code advocate, exploratory programming via REPL.
+- practice Python for building business logic, analytics, and web services.
+
 ### Project Lead, ASML/HMI, Apr 2021 – Present
 - EUV PrintCheck application.
 
