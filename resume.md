@@ -2,29 +2,26 @@
 - willhyper@gmail.com * 669-252-2184 * 4092 Alberstone Dr, San Jose, CA 95130
 - [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
-## Career Objective and Personal Statement
+## Career Objective
 Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure, Matlab; Flask; gradle, lein; git, Atlassian  
+- Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD
 
 ## Work experience
-### Chen's Applied Programming, sole proprietorship, Aug 2019 – Present
-- SW consultant, clean code advocate, exploratory programming via REPL.
-- practice Python for building business logic, analytics, and web services.
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ### Project Lead, ASML/HMI, Apr 2021 – Present
-- PrintCheck for EUV
+- EUV PrintCheck application.
 
 ### Project Lead, ASML/HMI, Jan 2020 – Apr 2021
-- Multi-Beam inspector SW infrastructure, platform, wafer exchange (WEX)
+- Multi-Beam inspector SW infrastructure, platform, wafer exchange
 - Manage risk; prioritize tasks; working with broader stakeholders and vendors.
-- Improve way of working in team / across teams for productivity.
+- Improve way of working in / across teams for productivity.
 
 ### Senior System Software Engineer, ASML/HMI, Feb 2019 – Dec 2019
 - [Profiling system performance using modern web technologies.](https://github.com/willhyper/seqdiag)
-- Rearchitecturing various aspects of SW for Multi-Beam Inspector project.
+- Developing machine control software for Multi-Beam Inspector.
+- Applying photoelectric physics for developing inspecting SRAM strategy
 
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Feb 2019
 - System architect of hybrid inspector, integrating eBeam review and BBP inspection. 
