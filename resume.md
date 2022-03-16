@@ -2,13 +2,12 @@
 - willhyper@gmail.com * 669-252-2184 * 4092 Alberstone Dr, San Jose, CA 95130
 - [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
-## Personal Statement
-Experienced in machine control, interface, and automation in semiconductor industry. Engineering strength in SW/HW system integration. Domain in bio-medical optics. Simulating GRIN lens using Zemax. [building GRIN-lens based laparoscopic-OCT for non-invasive evaluating transplant kidney](https://doi.org/10.1007/978-3-642-14998-6_122). PhD constructed tomographic optical-mechanical control and image acquisition/processing software in Matlab/Python and hardware.
+## Objective and qualification
+Applying e-Beam lithography process engineer. I am passionate about display and optics technology. My master study was about modeling OLED current-voltage characteristics, concluded in a paper in Journal Applied Physics in 2008. My master education included to use XPS and UPS to characterize material spectrum, especially at the junction between two materials. Later I pursuit my PhD in electrophysics in University of Maryland 2007-2013. I designed a novel tomographic microscope termed aFLOT and applied it in regenerative medicine. I operated spectrometer and interferometer in Optical Coherence Tomography related projects. I was teaching Fourier Optics and Semiconductor Devices as teaching assistant. I entered semiconductor industry after graduation. At KLA-Tencor 2013-2019, I was responsibile for the system software design. Notable experience includes auto-focus subsystem, and software-compensated high precision optics motor control. At HMI/ASML since 2019, I am a project lead at multiple-fronts. I am currently driving EUV PrintCheck application, interplaying litho conditions to enhance inspecting defects landing on reticle. I am hand-on and enthusiastic about automating my work. I wrote entire software to automate and archistrate aFLOT from operating optics and stage to image acquisition to processing. In my later years in KLA-Tencor, I was the Python instructor, regular speaker, and co-organizer of a study group for 2.5 years. I view myself as a critical thinker. DISC profiles me as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD
 - Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
-- Corporate Python instructor, regular speaker, and organizer of study group for 2.5 years.
 
 ## Work experience
 
@@ -26,7 +25,7 @@ Experienced in machine control, interface, and automation in semiconductor indus
 - Applying photoelectric physics for developing inspecting SRAM strategy
 
 ### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Feb 2019
-- System architect of hybrid inspector, integrating eBeam review and BBP inspection. 
+- System architect of hybrid inspector, integrating eBeam review and Broad Band Plasma (BBP) inspection.
 
 ### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Implemented algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
