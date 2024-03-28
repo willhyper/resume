@@ -37,6 +37,18 @@ Passionate about Human-Machine Interface in bridging the physical and digital re
 - Wafer marking feature owner. Integrated wafer marking system into BBP inspector.
 - System engineer engaging with the mechanical, electrical, optics, and manufacturing..
 
+
+## Selected publications
+- Roger Lahaye, **Chao-Wei Chen**, “Bringing a virtual eBeam to virtual fab”, ASML Technology Conference 2023
+- **Chao-Wei Chen**, “MBI Programmatic Interface to Enable Runtime Integration with Holistic Lithography Portfolio”, ASML Technology Conference 2020
+- **Chao-Wei Chen**, Suneet Luniya, “Embracing Python's ecosystem to enable Cougar's online fast experimentation”, KT Eng Conference 2018
+- **Chao-Wei Chen**, Jeremy Nesbitt, “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
+- **Chao-Wei Chen**, “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
+- Alexander Barg, Wei-Hsuan Yu, “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, **Chao-Wei Chen** is acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
+- **Chao-Wei Chen**, Andrew Yeatts, John Fisher, Yu Chen, "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
+- **Chao-Wei Chen**, Andrew Yeatts, Emily Coates, John Fisher, Yu Chen, "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
+- **Chao-Wei Chen** and Chih-I Wu, "Analytical solution to space charge limited currents with exponentially distributed traps" J. Appl. Phys. 104, 123706 (2008)
+
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
 - [Constructed a novel tomography system termed angled fluorescent laminar optical tomography (aFLOT). Enabling spatial resolution ~200um and peneration depth ~2mm, aFLOT resolves features that are too small for MRI and too deep for confocal microscopy](https://drum.lib.umd.edu/bitstream/handle/1903/14225/Chen_umd_0117E_14017.pdf)
@@ -53,13 +65,3 @@ Passionate about Human-Machine Interface in bridging the physical and digital re
 
 ### BS, Electrical & Computer Engineering, National Taiwan University, GPA 3.9, Sep 2001 – Jun 2005
 - Honored student, Presidential award
-
-## Selected publications
-- **Chao-Wei Chen**, “MBI Programmatic Interface to Enable Runtime Integration with Holistic Lithography Portfolio”, ASML Technology Conference 2020
-- **Chao-Wei Chen**, Suneet Luniya, “Embracing Python's ecosystem to enable Cougar's online fast experimentation”, KT Eng Conference 2018
-- **Chao-Wei Chen**, Jeremy Nesbitt, “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
-- **Chao-Wei Chen**, “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
-- Alexander Barg, Wei-Hsuan Yu, “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, **Chao-Wei Chen** is acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
-- **Chao-Wei Chen**, Andrew Yeatts, John Fisher, Yu Chen, "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
-- **Chao-Wei Chen**, Andrew Yeatts, Emily Coates, John Fisher, Yu Chen, "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
-- **Chao-Wei Chen** and Chih-I Wu, "Analytical solution to space charge limited currents with exponentially distributed traps" J. Appl. Phys. 104, 123706 (2008)
