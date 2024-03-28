@@ -2,22 +2,25 @@
 - willhyper@gmail.com * 669-252-2184 * 4092 Alberstone Dr, San Jose, CA 95130
 - [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
-## Career Objective
-Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+## Career Statement
+Passionate about Human-Machine Interface in bridging the physical and digital reality. Experienced in machine control, interface, and automation in semiconductor and medical industry. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+- Open source contribution: [bokger](https://github.com/willhyper/bokger),[pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ## Work experience
 
-### Project Lead, ASML/HMI, Apr 2021 – Present
-- EUV PrintCheck application.
+### Architect, ASML, May 2023 - Present
+- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform.
+
+### Technical Program Manager, ASML/HMI, Apr 2021 – Apr 2023
+- Drive the development of Machine Learning Golden Image (MLGI). Train and inferrence GDS-based SEM images as the golden reference for EUV PrintCheck application.
 
 ### Project Lead, ASML/HMI, Jan 2020 – Apr 2021
 - Multi-Beam inspector SW infrastructure, platform, wafer exchange
 - Manage risk; prioritize tasks; working with broader stakeholders and vendors.
-- Improve way of working in / across teams for productivity.
+- Improve process for team's productivity.
 
 ### Senior System Software Engineer, ASML/HMI, Feb 2019 – Dec 2019
 - [Profiling system performance using modern web technologies.](https://github.com/willhyper/seqdiag)
