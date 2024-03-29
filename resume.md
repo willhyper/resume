@@ -38,6 +38,11 @@ Passionate about Human-Machine Interface in bridging the physical and digital re
 - System engineer engaging with the mechanical, electrical, optics, and manufacturing..
 
 
+<div style="page-break-after: always; visibility: hidden"> 
+\newpage
+</div>
+<br/>
+
 ## Selected publications
 - Roger Lahaye, **Chao-Wei Chen**, “Bringing a virtual eBeam to virtual fab”, ASML Technology Conference 2023
 - **Chao-Wei Chen**, “MBI Programmatic Interface to Enable Runtime Integration with Holistic Lithography Portfolio”, ASML Technology Conference 2020
