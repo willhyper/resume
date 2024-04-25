@@ -6,7 +6,7 @@
 Passionate about Human-Machine Interface in bridging the physical and digital reality. Experienced in machine control, interface, and automation in semiconductor and medical industry. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD
+- Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD; Copilot
 - Open source contribution: [bokger](https://github.com/willhyper/bokger),[pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ## Work experience
