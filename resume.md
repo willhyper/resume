@@ -6,16 +6,20 @@
 Passionate about Human-Machine Interface in bridging the physical and digital reality. Experienced in machine control, interface, and automation in semiconductor and medical industry. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
-- Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD; Copilot
+- Python, C#, Java, Clojure, cljs, TypeScript, Matlab
+- PyTorch, Flask, Bokeh
+- CLI; git, JIRA, Atlassian; CI/CD; Copilot
 - Open source contribution: [bokger](https://github.com/willhyper/bokger),[pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ## Work experience
 
 ### Architect, ASML, May 2023 - Present
 - Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform.
+- MLOps, optimizing the deployment flow of Machine Learning Golden Image (MLGI) onto Nebula.
+- developing and architecturing CLI solution for developing, testing, and troubleshooting.
 
 ### Technical Program Manager, ASML/HMI, Apr 2021 – Apr 2023
-- Drive the development of Machine Learning Golden Image (MLGI). Train and inferrence GDS-based SEM images as the golden reference for EUV PrintCheck application.
+- Drive a team of 20, successfully completing the development of MLGI. Train and inferrence GDS-based SEM (Scanning Electron Microscope) images as the golden reference for EUV PrintCheck application.
 
 ### Project Lead, ASML/HMI, Jan 2020 – Apr 2021
 - Multi-Beam inspector SW infrastructure, platform, wafer exchange
