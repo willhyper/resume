@@ -14,7 +14,7 @@ Passionate about Human-Machine Interface in bridging the physical and digital re
 ## Work experience
 
 ### Architect, ASML, May 2023 - Present
-- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform. CentOS, Luster, TRAM NGen
+- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform. CentOS, Luster, TRAM NGen, JFrog Artifactory
 - MLOps, optimizing the deployment flow of Machine Learning Golden Image (MLGI) onto Nebula.
 - developing and architecturing CLI solution for developing, testing, and troubleshooting.
 
