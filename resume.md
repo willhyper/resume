@@ -8,23 +8,20 @@ Passionate about Human-Machine Interface in bridging the physical and digital re
 ## Computer skills
 - Python, C#, Java, Clojure, cljs, TypeScript, Matlab
 - PyTorch, Flask, Bokeh
-- CLI; git, JIRA, Atlassian; CI/CD; Copilot
+- CLI, bash; git, JIRA, Atlassian; CI/CD; Copilot
 - Open source contribution: [bokger](https://github.com/willhyper/bokger),[pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ## Work experience
 
 ### Architect, ASML, May 2023 - Present
-- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform.
+- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform. CentOS, Luster, TRAM NGen
 - MLOps, optimizing the deployment flow of Machine Learning Golden Image (MLGI) onto Nebula.
 - developing and architecturing CLI solution for developing, testing, and troubleshooting.
 
-### Technical Program Manager, ASML/HMI, Apr 2021 – Apr 2023
+### Technical Program Manager, ASML/HMI, Jan 2020 – Apr 2023
 - Drive a team of 20, successfully completing the development of MLGI. Train and inferrence GDS-based SEM (Scanning Electron Microscope) images as the golden reference for EUV PrintCheck application.
-
-### Project Lead, ASML/HMI, Jan 2020 – Apr 2021
 - Multi-Beam inspector SW infrastructure, platform, wafer exchange
-- Manage risk; prioritize tasks; working with broader stakeholders and vendors.
-- Improve process for team's productivity.
+- Manage risks, prioritization, budgeting, working with vendors.
 
 ### Senior System Software Engineer, ASML/HMI, Feb 2019 – Dec 2019
 - [Profiling system performance using modern web technologies.](https://github.com/willhyper/seqdiag)
