@@ -7,7 +7,7 @@ Passionate about Human-Machine Interface in bridging the physical and digital re
 
 ## Computer skills
 - Python, C#, Java, Clojure, cljs, TypeScript, Matlab
-- PyTorch, Flask, Bokeh
+- PyTorch, Flask, Bokeh; Corporate Python instructor, community organizer.
 - CLI, bash; git, JIRA, Atlassian; CI/CD; Copilot
 - Open source contribution: [bokger](https://github.com/willhyper/bokger),[pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
