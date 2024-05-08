@@ -3,7 +3,7 @@
 - [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
 
 ## Career Statement
-Passionate about Human-Machine Interface in bridging the physical and digital reality. Experienced in machine control, interface, and automation in semiconductor and medical industry. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+Passionate about Human-Machine Interface in bridging the physical and digital reality. Experienced in machine control, interface, and automation in semiconductor and medical industry. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/MLOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Python, C#, Java, Clojure, cljs, TypeScript, Matlab
