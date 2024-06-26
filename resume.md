@@ -1,9 +1,9 @@
 # Chao-Wei Chen
 - willhyper@gmail.com * 669-252-2184 * 4092 Alberstone Dr, San Jose, CA 95130
-- [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
+- [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C) * [octnews](https://octnews.org/authors/chao-wei-chen/)
 
 ## Career Statement
-Passionate about Human-Machine Interface in bridging the physical and digital reality. Experienced in machine control, interface, and automation in semiconductor and medical industry. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/MLOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+10+ years of experience in Human-Machine Interface in bridging the physical and digital reality. Applied programming skill and optics knowledge in machine control, interface, and automation in semiconductor and medical imaging. Technical program manager, extreme communicator, manage time-scope-resource, define product, mitigate risks, drive execution. Engineering strength in SW/HW system integration, DevOps/MLOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
 
 ## Computer skills
 - Python, C#, Java, Clojure, cljs, TypeScript, Matlab
