@@ -3,11 +3,7 @@
 - [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C) * [octnews](https://octnews.org/authors/chao-wei-chen/)
 
 ## Career Statement and Experience
-10+ years of experience applying mathematical and optics knowledge, along with programming skills, in machine control, interface, and automation in semiconductor and medical imaging. Software engineer advocating for clean code with the motto, “Documentation is code; code is documentation.” Technical program manager striking for extreme communication, managing time, scope, and resources, defining products, mitigating risks, and driving execution. Engineering strength in SW/HW system integration, DISC-profiled as an influencer, with strengths in communication, relatability, intellection, learning, and strategic thinking.
-
-Optics and imaging have always been my coherent interests. During my PhD studies, I developed my own 3D segmentation and classification software and practiced registration. These skills were applied in (1) tissue engineering (regenerative medicine), (2) evaluating kidney transplantation success with a self-built laparoscopic optical coherence tomography (OCT) where OCT and Doppler OCT images are co-registered to visualize glomerulus structure and function, (3) Characterizing OCT by its 3D PSF in the regulatory FDA domain, (4) tomography reconstruction in diffuse optics. See [willhyper.github.io](willhyper.github.io).
-
-Besides medical imaging, I taught Fourier Optics as a teaching assistant at both National Taiwan University and the University of Maryland, College Park. Given that AI heavily relies on matrix multiplication, optical computing appears to be the ultimate pursuit. I continued to bring my optical knowledge into the industry. “Beyond Accuray” was a hackathon project and later a KLA engineering conference paper in 2016, where I augmented KLA’s existing flexible aperture design with a modified flow to attempt doubling the sensitivity in the optical defect inspection area. Besides, Optical Proximity Correction (OPC) and the advent of cuLitho in 2023 have caught my eye ever since.
+10+ years of experience applying mathematical and optics knowledge, along with programming skills, in machine control/interface/automation in semiconductor defectivity/metrology and medical imaging. Advocating clean code, “Documentation is code; code is documentation.” Technical program manager striking for extreme communication, managing time, scope, and resources, defining products, mitigating risks, and driving execution. Engineering strength in SW/HW system integration, DISC-profiled as an influencer, with strengths in communication, relatability, intellection, learning, and strategic thinking.
 
 ## Computer skills
 - Python, C#, Java, Clojure, cljs, TypeScript, Matlab
@@ -18,9 +14,11 @@ Besides medical imaging, I taught Fourier Optics as a teaching assistant at both
 ## Work experience
 
 ### Architect, ASML, May 2023 - Present
-- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform. CentOS, Luster, TRAM NGen, JFrog Artifactory
-- MLOps, optimizing the deployment flow of Machine Learning Golden Image (MLGI) onto Nebula.
-- developing and architecturing CLI solution for developing, testing, and troubleshooting.
+- Roadmap Nebula, ASML's next-gen high performance computing (HPC) platform. 
+- MLOps, deploying Machine Learning Golden Image (MLGI) solution to the defectivity application.
+- escancli, Command Line Interface (CLI) solution to ASML's e-beam technology.
+- Define acceptance test procedure (ATP) to qualify vendor's delivery.
+- map/reduce, Docker, Luster, TRAM NGen, JFrog Artifactory
 
 ### Technical Program Manager, ASML/HMI, Jan 2020 – Apr 2023
 - Drive a team of 20, completing the development of MLGI. Train and inferrence GDS-based SEM images as the golden reference for EUV PrintCheck application.
@@ -46,9 +44,6 @@ Besides medical imaging, I taught Fourier Optics as a teaching assistant at both
 - [characterizing various optical coherence tomography (OCT)](https://opg.optica.org/boe/fulltext.cfm?uri=boe-5-7-2066&id=289679), proposing regulatory standards.
 - profilometer, spin-coater, Matlab, ImageJ
 
-<div style="page-break-after: always; visibility: hidden"> 
-\newpage
-</div>
 <br/>
 
 ## Selected publications
