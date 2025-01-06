@@ -47,15 +47,17 @@
 <br/>
 
 ## Selected publications
-- Roger Lahaye, **Chao-Wei Chen**, “Bringing a virtual eBeam to virtual fab”, ASML Technology Conference 2023
-- **Chao-Wei Chen**, “MBI Programmatic Interface to Enable Runtime Integration with Holistic Lithography Portfolio”, ASML Technology Conference 2020
-- **Chao-Wei Chen**, Suneet Luniya, “Embracing Python's ecosystem to enable Cougar's online fast experimentation”, KT Eng Conference 2018
-- **Chao-Wei Chen**, Jeremy Nesbitt, “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
-- **Chao-Wei Chen**, “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
-- Alexander Barg, Wei-Hsuan Yu, “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, **Chao-Wei Chen** is acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
-- **Chao-Wei Chen**, Andrew Yeatts, John Fisher, Yu Chen, "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
-- **Chao-Wei Chen**, Andrew Yeatts, Emily Coates, John Fisher, Yu Chen, "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
-- **Chao-Wei Chen** and Chih-I Wu, "Analytical solution to space charge limited currents with exponentially distributed traps" J. Appl. Phys. 104, 123706 (2008)
+- “Bringing a virtual eBeam to virtual fab”, ASML Technology Conference 2023
+- “MBI Programmatic Interface to Enable Runtime Integration with Holistic Lithography Portfolio”, ASML Technology Conference 2020
+- “Embracing Python's ecosystem to enable Cougar's online fast experimentation”, KT Eng Conference 2018
+- “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
+- “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
+- "Variations in optical coherence tomography resolution and uniformity: a multi-system performance comparison", Biomedical optics express 2014
+- "Multilayer thin-film phantoms for axial contrast transfer function measurement in optical coherence tomography", Biomedical optics express 2013
+- “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
+- "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
+- "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
+- "Analytical solution to space charge limited currents with exponentially distributed traps" J. Appl. Phys. 104, 123706 (2008)
 
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
