@@ -1,42 +1,44 @@
 # Chao-Wei Chen
 - willhyper@gmail.com * 669-252-2184 * 4092 Alberstone Dr, San Jose, CA 95130
-- [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C)
+- [willhyper.github.io](https://willhyper.github.io) * [LinkedIn](https://www.linkedin.com/in/chao-wei-chen-03179465/) * [Google Scholar](https://scholar.google.com/citations?user=FxDwG_h5zo8C) * [octnews](https://octnews.org/authors/chao-wei-chen/)
 
-## Career Objective
-Dedicating in Human-Machine Interface in bridging the physical and digital world. Experienced in machine control, interface, and automation in semiconductor industry. Project lead driving task priorities, managing risks, triple constraints; define product, use cases, analyze requirements, test plan; Engineering strength in SW/HW system integration, DevOps/Mfg flow optimization. DISC profiled as influencer, with strength in communicaiton, relator, intellection, learner, and strategic.
+## Career Statement and Experience
+10+ years of experience applying mathematical and optics knowledge, along with programming skills, in machine control/interface/automation in semiconductor defectivity/metrology and medical imaging. Proven academic track in regulatory science at FDA. Advocating clean code, “Documentation is code; code is documentation.” Experience in medical device imaging includes fluorescence imaging, coregistration with optical coherence tomography, two photon imaging, confocal imaging, Ti:Sapphire laser, GRIN lens endoscopic imaging, droplet delivery.
 
 ## Computer skills
-- Python, C#, Java, Clojure, Matlab; Flask; CLI; git, JIRA, Atlassian; CI/CD
-- Open source contribution: [pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
+- Python, C#, Java, Clojure, cljs, Matlab
+- PyTorch, Flask, Bokeh; Corporate Python instructor, community organizer.
+- CLI, bash; git, JIRA, Atlassian; CI/CD; Copilot
+- Open source contribution: [bokger](https://github.com/willhyper/bokger),[pyplin](https://github.com/willhyper/pyplin), [presume](https://github.com/willhyper/presume)
 
 ## Work experience
 
-### Chen's Applied Programming, sole proprietorship, Aug 2019 – Present
-- SW consultant, clean code advocate, exploratory programming via REPL.
-- practice Python for building business logic, analytics, and web services.
+### Sole proprietor, Chen's Applied Programming, Beckman Coulter/Cornami, Aug 2019 – Present
+- develop Echo 650 liquid handler.
+- integrating Echo with Artium techonology, droplet analysis.
+- RISC static time analysis
 
-### Project Lead, ASML/HMI, Apr 2021 – Present
-- EUV PrintCheck application.
-
-### Project Lead, ASML/HMI, Jan 2020 – Apr 2021
-- Multi-Beam inspector SW infrastructure, platform, wafer exchange
-- Manage risk; prioritize tasks; working with broader stakeholders and vendors.
-- Improve way of working in / across teams for productivity.
-
-### Senior System Software Engineer, ASML/HMI, Feb 2019 – Dec 2019
-- [Profiling system performance using modern web technologies.](https://github.com/willhyper/seqdiag)
-- Developing machine control software for Multi-Beam Inspector.
-- Applying photoelectric physics for developing inspecting SRAM strategy
-
-### Senior System Software Engineer, KLA-Tencor, Aug 2017 – Feb 2019
+### System Software Engineer, ASML/HMI/KLA-Tencor, Oct 2013 – Present
+- MLOps, deploying Machine Learning Golden Image (MLGI) solution to the defectivity application.
+- escancli, Command Line Interface (CLI) solution to ASML's e-beam technology.
 - System architect of hybrid inspector, integrating eBeam review and BBP inspection. 
-- bridging Factory Automation to Web technology: REST, websocket, flask, docker, redis, sqlite, samba, SEMI, GEM, SECS, klarf, pythonnet, Bokeh
 - Corporate Python instructor, regular speaker, and organizer of study group for 2.5 years.
-
-### System Software Engineer, KLA-Tencor, Oct 2013 – Aug 2017
 - Implemented algorithm to balance throughput and defect sensitivity to drive down the cost of tool ownership.
-- Wafer marking feature owner. Integrated wafer marking system into BBP inspector.
-- System engineer engaging with the mechanical, electrical, optics, and manufacturing..
+- map/reduce, Docker, Luster, TRAM NGen, JFrog Artifactory
+- Factory Automation, REST, websocket, flask, docker, redis, sqlite, samba, SEMI, GEM, SECS, klarf, pythonnet, Bokeh
+
+
+### Contractor, Center for Devices and Radiological Health, Food and Drug Administration, Sep 2011 – Aug 2012
+- [characterizing various optical coherence tomography (OCT)](https://opg.optica.org/boe/fulltext.cfm?uri=boe-5-7-2066&id=289679), proposing regulatory standards.
+- profilometer, spin-coater, Matlab, ImageJ
+
+<br/>
+
+## Selected publications
+- "Variations in optical coherence tomography resolution and uniformity: a multi-system performance comparison", Biomedical optics express 2014
+- "Multilayer thin-film phantoms for axial contrast transfer function measurement in optical coherence tomography", Biomedical optics express 2013
+- "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
+- "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
 
 ## Education
 ### PhD, Electrical & Computer Engineering, University of Maryland, College Park, MD, Aug 2007 – May 2013, GPA 4.0
@@ -54,13 +56,3 @@ Dedicating in Human-Machine Interface in bridging the physical and digital world
 
 ### BS, Electrical & Computer Engineering, National Taiwan University, GPA 3.9, Sep 2001 – Jun 2005
 - Honored student, Presidential award
-
-## Selected publications
-- **Chao-Wei Chen**, “MBI Programmatic Interface to Enable Runtime Integration with Holistic Lithography Portfolio”, ASML Technology Conference 2020
-- **Chao-Wei Chen**, Suneet Luniya, “Embracing Python's ecosystem to enable Cougar's online fast experimentation”, KT Eng Conference 2018
-- **Chao-Wei Chen**, Jeremy Nesbitt, “BeyondAccuray: An Extension of Accuray to Increase Broadband Plasma Sensitivity”, KT Eng Conference 2016
-- **Chao-Wei Chen**, “Intelligence from Optical Device Logs and Its Strategy-Based Implementation”, KT Eng Conference 2015
-- Alexander Barg, Wei-Hsuan Yu, “NEW BOUNDS FOR SPHERICAL TWO-DISTANCE SETS”, Journal of Applied Mathematics 2012, **Chao-Wei Chen** is acknowledged for [programming contribution](https://github.com/willhyper/two_dist_set).
-- **Chao-Wei Chen**, Andrew Yeatts, John Fisher, Yu Chen, "Three-dimensional imaging of stem cell distribution within tissue engineering scaffolds using angled fluorescent laminar optical tomography (aFLOT),"Photonics Conference (PHO), 2011 IEEE , vol., no., pp.729,730, 9-13 Oct. 2011 (best student paper)
-- **Chao-Wei Chen**, Andrew Yeatts, Emily Coates, John Fisher, Yu Chen, "Experimental Demonstration of Angled Fluorescent Laminar Optical Tomography for Tissue Engineering," in Biomedical Optics and 3-D Imaging, OSA, 2012.
-- **Chao-Wei Chen** and Chih-I Wu, "Analytical solution to space charge limited currents with exponentially distributed traps" J. Appl. Phys. 104, 123706 (2008)
